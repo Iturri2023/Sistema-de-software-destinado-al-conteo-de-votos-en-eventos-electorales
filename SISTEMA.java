@@ -6,7 +6,7 @@ package javaapplication12;
  */
 public class SISTEMA {
 
-
+//esto es una prueba
     public static void main(String[] args) {
         
     }
